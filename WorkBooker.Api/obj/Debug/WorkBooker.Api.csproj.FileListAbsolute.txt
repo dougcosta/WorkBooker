@@ -1,0 +1,5 @@
+C:\Users\Douglas\Documents\Projetos\WorkBooker\WorkBooker.Api\bin\Debug\WorkBooker.Api.dll
+C:\Users\Douglas\Documents\Projetos\WorkBooker\WorkBooker.Api\bin\Debug\WorkBooker.Api.pdb
+C:\Users\Douglas\Documents\Projetos\WorkBooker\WorkBooker.Api\obj\Debug\WorkBooker.Api.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Documents\Projetos\WorkBooker\WorkBooker.Api\obj\Debug\WorkBooker.Api.dll
+C:\Users\Douglas\Documents\Projetos\WorkBooker\WorkBooker.Api\obj\Debug\WorkBooker.Api.pdb
